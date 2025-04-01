@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://academialumnia.es/sitemap.xml
